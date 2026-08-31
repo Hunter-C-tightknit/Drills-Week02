@@ -89,11 +89,22 @@ makes a whole new string. Look up `StringBuilder` if you are curious — not req
 
 ---
 
-## Using AI on this
+## Using AI on this — and what to use instead
 
 **Tier 0 — no AI.** These take twenty minutes and they are practice for you, not output
 for anyone. A model writes both in one second, and you will have learned nothing that
-shows up on Tuesday's quiz, which is closed-book and on paper.
+shows up on **Thursday's quiz**, which is closed-book and on paper.
 
-If you are stuck, the fastest honest route is to write the Python version first and then
-translate it line by line.
+**"No AI" does not mean "no help."** Use any of these:
+
+| | |
+|---|---|
+| **Think Java** — **Ch 6**, *Loops and Strings* | free: <https://books.trinket.io/thinkjava2/> |
+| **Bro Code** — #21 While loops · #23 For loops | free: <https://www.youtube.com/watch?v=xTtL8E4LzTQ> |
+| **Tutoring** | two hours a week, already required, **10% of your grade**. Bring this repo |
+| **Office hours** | bring the failing test and what you already tried |
+| **Your classmates** | talk it through, explain it to each other — **type your own code** |
+
+**And the technique that beats all of them:** write the Python version first, in a comment,
+then translate it line by line. The algorithm is not the hard part here and never was —
+the difference between your Python and your Java is the whole lesson.
