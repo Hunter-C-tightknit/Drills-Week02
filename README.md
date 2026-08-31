@@ -99,8 +99,9 @@ shows up on **Thursday's quiz**, which is closed-book and on paper.
 
 | | |
 |---|---|
-| **Think Java** — **Ch 6**, *Loops and Strings* | free: <https://books.trinket.io/thinkjava2/> |
-| **Bro Code** — #21 While loops · #23 For loops | free: <https://www.youtube.com/watch?v=xTtL8E4LzTQ> |
+| **Think Java** — [§6.1 The `while` Statement](https://books.trinket.io/thinkjava2/chapter6.html) · [§6.3 The `for` Statement](https://books.trinket.io/thinkjava2/chapter6.html) | free, no signup |
+| **Think Java** — [§6.7 String Iteration](https://books.trinket.io/thinkjava2/chapter6.html) for building a string in a loop | free |
+| **Bro Code** — [the channel](https://www.youtube.com/@BroCodez) · [Java Full Course](https://www.youtube.com/watch?v=xTtL8E4LzTQ) (chaptered — jump to loops) | free |
 | **Tutoring** | two hours a week, already required, **10% of your grade**. Bring this repo |
 | **Office hours** | bring the failing test and what you already tried |
 | **Your classmates** | talk it through, explain it to each other — **type your own code** |
