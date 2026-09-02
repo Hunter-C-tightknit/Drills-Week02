@@ -93,7 +93,7 @@ makes a whole new string. Look up `StringBuilder` if you are curious — not req
 
 **Tier 0 — no AI.** These take twenty minutes and they are practice for you, not output
 for anyone. A model writes both in one second, and you will have learned nothing that
-shows up on **Thursday's quiz**, which is closed-book and on paper.
+shows up on **Q1 — Tue Sep 8**, which is closed-book and on paper.
 
 **"No AI" does not mean "no help."** Use any of these:
 
