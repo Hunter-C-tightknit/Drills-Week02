@@ -15,7 +15,7 @@ public class Asterisks {
      */
     public String asterisks(int n) {
 
-        return null;
+        return "*".repeat(n);
 
     }
 }

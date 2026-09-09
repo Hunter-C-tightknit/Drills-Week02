@@ -17,8 +17,11 @@ public class ShowMeTheNumbers {
      * @return the numbers 1..n, each followed by "\n" — {@code ""} when n is 0
      */
     public String count(int n) {
-
-        return null;
+        String milkbone="";
+        for(int i=1; i <= n;i++) {
+            milkbone += i +"\n";
+        }
+        return  milkbone;
 
     }
 }
